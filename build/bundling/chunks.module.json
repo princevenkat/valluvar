@@ -1,0 +1,50 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "30395bc1e887e0ee5ab7",
+  "publicPath": "/static/",
+  "outputPath": "E:\\ReactJS\\valluvar\\build\\static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "valluvar": "valluvar.module.js"
+  },
+  "assets": [],
+  "filteredAssets": 2,
+  "namedChunkGroups": {
+    "valluvar": {
+      "chunks": [
+        "valluvar"
+      ],
+      "assets": [
+        "valluvar.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    },
+    {
+      "id": "valluvar",
+      "files": [
+        "valluvar.module.js"
+      ]
+    }
+  ]
+}
