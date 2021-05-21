@@ -1,26 +1,22 @@
 {
   "errors": [],
   "warnings": [],
-  "hash": "446ff164804afb9e893a",
+  "hash": "475ef4f716cbfbd643ef",
   "publicPath": "/static/",
   "outputPath": "E:\\ReactJS\\valluvar\\build\\static",
   "assetsByChunkName": {
     "list": "list.module.js",
-    "valluvar": [
-      "valluvar.module.js",
-      "valluvar.a810c34609fec06e6ed8.hot-update.js"
-    ]
+    "valluvar": "valluvar.module.js"
   },
   "assets": [],
-  "filteredAssets": 4,
+  "filteredAssets": 2,
   "namedChunkGroups": {
     "valluvar": {
       "chunks": [
         "valluvar"
       ],
       "assets": [
-        "valluvar.module.js",
-        "valluvar.a810c34609fec06e6ed8.hot-update.js"
+        "valluvar.module.js"
       ],
       "children": {},
       "childAssets": {}
@@ -47,8 +43,7 @@
     {
       "id": "valluvar",
       "files": [
-        "valluvar.module.js",
-        "valluvar.a810c34609fec06e6ed8.hot-update.js"
+        "valluvar.module.js"
       ]
     }
   ]
